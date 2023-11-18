@@ -1,0 +1,36 @@
+.intro .appbar {
+    width: calc(100% - 110px);
+    padding: 0;
+}
+
+.intro .appbar ul {
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.intro .logo {
+    max-height: 150px;
+}
+
+.appbar .right {
+    margin-left: auto;
+    display: flex;
+}
+
+.appbar .right li {
+    margin: 0 40px;
+    font-size: 20px;
+
+    cursor: pointer;
+}
+
+.appbar .right a {
+    text-decoration: none;
+    color: whitesmoke;
+}
