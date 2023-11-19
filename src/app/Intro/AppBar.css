@@ -16,6 +16,7 @@
 
 .intro .logo {
     max-height: 150px;
+    margin-left: -55px;
 }
 
 .appbar .right {
@@ -24,7 +25,7 @@
 }
 
 .appbar .right li {
-    margin: 0 40px;
+    margin: 0 35px;
     font-size: 20px;
 
     cursor: pointer;
