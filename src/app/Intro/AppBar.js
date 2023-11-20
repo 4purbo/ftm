@@ -1,3 +1,7 @@
+// File name: AppBar.js
+
+// Description: Responsible for the appbar in the intro section.
+
 import logo from '../../assets/logo-transparent.png';
 import './AppBar.css';
 
